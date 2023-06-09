@@ -13,6 +13,8 @@ A  website created to help customers to order jewellery from home. This is an on
 - Shopping cart to add and manage selected items
 - Contact form for inquiries and support
 
+![image](https://github.com/asqre/JewelleryShop_eccomerceWebsite.github.io/assets/62792214/58527a61-d17b-4f47-960d-af2b71bb5dce)
+
 ## Installation
 
 To run the website locally, follow these steps:
